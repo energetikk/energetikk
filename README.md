@@ -10,7 +10,7 @@
 
 ### Мой технический стек
 
-
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=energetikk&repo=&label=VISITOR&style=plastic&color=%23457BFF&contentType=svg)
 
 
 <br/>
