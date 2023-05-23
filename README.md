@@ -1,16 +1,33 @@
-### Hi there 👋
+# Привет всем, меня зовут Павел! 👋
 
-<!--
-**energetikk/energetikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Я начинающий разработчик веб-интерфейсов
 
-Here are some ideas to get you started:
+## Немного обо мне
+- ммне 33 года. По образованию инженер физик-ядерщик, но тяготел всегда к Computer Science! 
+- В настоящий момент прохожу обучение в Яндекс.Практикум на курсе Веб-разработчик. 
+- Нравится разбираться в современных технологиях и гаджетах
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Мой технический стек
+
+<img align="left" alt="html" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="css" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+/*<img align="left" alt="sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />*/
+/*<img align="left" alt="js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+/*<img align="left" alt="mongodb" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>*/
+/*<img align="left" alt="express" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>*/ 
+<img align="left" alt="react" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /
+/*<img align="left" alt="nodejs" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>*/
+<img align="left" alt="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/>
+/*<img align="left" alt="gulp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"/>*/
+<img align="left" alt="webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
+<img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+
+
+<br/>
+<br/>
+
+### Мои контакты 
+ 
+Почта: pavlikdemin@yandex.ru 📮<br/> 
+TG: tg.me/paweldemin  
