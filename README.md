@@ -26,6 +26,8 @@
 
 <br/>
 <br/>
+![](https://komarev.com/ghpvc/?username=energetikk)
+
 
 ### Мои контакты 
  
