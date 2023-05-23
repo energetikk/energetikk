@@ -10,7 +10,8 @@
 
 ### Мой технический стек
 
-![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=energetikk&repo=&label=VISITOR&style=plastic&color=%23457BFF&contentType=svg)
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=energetikk&repo=how-to-learn&label=VISITOR&style=flat-square&color=%23457BFF&contentType=svg)
+
 
 
 <br/>
